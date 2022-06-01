@@ -8,4 +8,4 @@ Simple Dice roller for RPG and Tabletop games.
 4. Click the "Roll" button to get your result. The unmodified result is displayed in ().
 
 ## Live Demo
-![Live Demo Hosted on W3Spaces](https://x13x-dice-roller.w3spaces.com/)
+[Live Demo Hosted on W3Spaces](https://x13x-dice-roller.w3spaces.com/)
