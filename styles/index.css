@@ -2,3 +2,13 @@ body{
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(88,88,190,1) 52%, rgba(0,212,255,1) 100%);
 }
+.f-control{
+    width: 10%;
+    min-width: 100px;
+}
+/* #results{
+    position: fixed;
+    top: 12%;
+    right: 25%;
+    overflow-x: hidden;
+} */
