@@ -18,7 +18,7 @@ let rollDice = () => {
         modifier = 0;
     }
     let result = roll(diceType, numDice, modifier);
-    results.push(numDice+'d'+diceType+' + '+modifier+' = '+result);
+    results.push(numDice+'d'+diceType+' + '+modifier+' = ('+(result-modifier)+') '+result);
     if(results.length > 8) {
         results.shift();
     }
